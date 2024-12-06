@@ -5,9 +5,9 @@
 
 <h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Vue js**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Front end **
 
 - 📫 How to reach me **nurlan.mnv@div.edu.az**
 
