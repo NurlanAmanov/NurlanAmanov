@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Vue js**
 
-- 💬 Ask me about **Front end **
+- 💬 Ask me about **My Skills**
 
 - 📫 How to reach me **nurlan.mnv@div.edu.az**
 
