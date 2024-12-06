@@ -1,4 +1,4 @@
-![MasterHead](NurlanAmanov/img/banner.png)
+![MasterHead](./banner.png)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
