@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/NurlanAmanov"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="40" alt="Nurlan"></a>
+  <a href="https://github.com/NurlanAmanov"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="Nurlan"></a>
 <a href="https://www.linkedin.com/in/nurlan-emenov-933890300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nurlan" height="30" width="40" /></a>
 
 </p>
