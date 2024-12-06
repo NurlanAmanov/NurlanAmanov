@@ -1,4 +1,4 @@
-![MasterHead](./img/banner.png)
+![MasterHead](NurlanAmanov/img/banner.png)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **cagatayakkas9191@gmail.com**
+- 📫 How to reach me **nurlan.mnv@div.edu.az**
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/CagatayAkkas/)
 
