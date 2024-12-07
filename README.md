@@ -1,5 +1,6 @@
   ![MasterHead](./banner.png)
 ![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+<br/>
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=100 height=100 align="right">
 
 
