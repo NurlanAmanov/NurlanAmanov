@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Neext js**
+- 🔭 I’m currently working on **PHP**
 
 - 💬 Ask me about **My Skills**
 
